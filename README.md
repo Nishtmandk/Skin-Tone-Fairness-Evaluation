@@ -4,7 +4,7 @@ cat << EOF > README.md
 ## DTU Master Thesis
 
 This project is part of the research "Skin Tone Fairness Evaluation of Face Image Quality Assessment Algorithms based on 3D Morphable Face Models". The objective is to analyze biases in skin tone classification within biometric systems. The study involves different color-based classification methods using predefined RGB color categories from the Google SkinTone Guide.
-![Alt Text](relative/path/to/image.png)
+![Alt Text]([relative/path/to/image.png](https://github.com/Nishtmandk/Skin-Tone-Fairness-Evaluation/blob/main/Monk.jpg))
 
 ## Required Steps Before Running This Project
 
