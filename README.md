@@ -94,14 +94,21 @@ albedo/ - Extracted textures from images
 albedo_images/ - Images without lighting effects
 
 ## Results and Visualizations
+Python_GPU_code     https://drive.google.com/file/d/1naJDFeItUc2g2_jmi13zfVpiBAu_KxF8/view?usp=sharing
+Python_code         https://drive.google.com/file/d/1qnqyjYsNQuG3dwxeh0wG-zfFuxd_Ab8l/view?usp=sharing
+lfw_Hyperparameter  https://drive.google.com/file/d/1hkGCG92nRXHcsq0t8P144xLL_nI4WfJP/view?usp=sharing
+ffhq_Style_GAN      https://drive.google.com/file/d/1DGLOk8oe3N8Iq3bBDfELYaHJFuPhKm-i/view?usp=sharing
+lfw                 https://drive.google.com/file/d/1kcVQUueHI-_JJfASFrI75YZIi0qz3ul7/view?usp=sharing
+ffhq                https://drive.google.com/file/d/1Euvte3UkCex9zF_W37mgOIhbsR8cOubl/view?usp=sharing
+
 
 ### Skin Tone Fairness Evaluation
 
-![Skin Tone Fairness](Work.png)
+![Skin Tone Fairness](Work.png)https://drive.google.com/file/d/1I2tMDZc9VQI0vj0afywuVksJ0WsPOzIA/view?usp=sharing
 
 ### TRUST Model Output Example
 
-![TRUST Model](MST.png)
+![TRUST Model](MST.png)https://drive.google.com/file/d/1mJJqgCzGYx6a0igmWjZKELrPTAUBfxIg/view?usp=sharing
 
 ## Author
 
