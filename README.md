@@ -114,7 +114,7 @@ ffhq
 https://drive.google.com/file/d/1Euvte3UkCex9zF_W37mgOIhbsR8cOubl/view?usp=sharing
 
 Images
-https://drive.google.com/file/d/1PvRhTcHYjHQ7UVRJZZjRi5JNIl-g_g7h/view?usp=sharing
+
 
 
 ### Skin Tone Fairness Evaluation
