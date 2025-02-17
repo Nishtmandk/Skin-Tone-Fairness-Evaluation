@@ -45,7 +45,7 @@ This script compares different skin tone classification models and calculates bi
 
 ## Methodology
 
-This project utilizes TRUST to reconstruct facial geometry using FLAME 3D models and estimates albedo to separate intrinsic skin properties from lighting effects.
+This project utilizes TRUST to reconstruct facial geometry using FLAME 3D models(https://github.com/HavenFeng/photometric_optimization?tab=readme-ov-file) and estimates albedo to separate intrinsic skin properties from lighting effects.
 
 ## Classification Models Used
 
